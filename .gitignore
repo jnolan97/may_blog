@@ -1,0 +1,4 @@
+may_blog_env/
+__pycache__/
+.vscode/
+.env
